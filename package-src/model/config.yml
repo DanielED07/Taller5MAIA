@@ -59,3 +59,4 @@ categorical_vars:
 qual_mappings:
   Attrited Customer: 1
   Existing Customer: 0
+  
